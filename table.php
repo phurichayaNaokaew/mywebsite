@@ -43,7 +43,7 @@
         <td><a href="https://twitter.com/wirojlak">twitter</a></td> 
        <tr>
         <td>6</td>
-        td>วัชระ สุขชุม</td>
+        <td>วัชระ สุขชุม</td>
         <td>เจนนี่</td>
         <td><img src="https://s359.kapook.com/pagebuilder/13ec4d63-a964-4c0b-bfe9-23948a323d2b.png" width="145px"></td>
         <td><a href="https://twitter.com/JenniePanhan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a> 
